@@ -1,3 +1,5 @@
+package test;
+
 public class superlabs2 {
     //    public long solution(int[][] rectangles) {
 //        long answer = 0;

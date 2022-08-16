@@ -1,3 +1,5 @@
+package test;
+
 public class superlabs3 {
     public int solution(String s) {
         int answer = 1;

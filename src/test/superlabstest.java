@@ -1,3 +1,5 @@
+package test;
+
 public class superlabstest {
     /**
      * 직사각형의 남은 한 점 구하기

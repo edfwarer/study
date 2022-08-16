@@ -1,3 +1,5 @@
+package test;
+
 public class superlabs1 {
 
     public int solution(int n, int a, int b)

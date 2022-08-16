@@ -1,3 +1,5 @@
+package test;
+
 public class superlabs4 {
     public int solution(String arr[]) {
         /**

@@ -1,3 +1,5 @@
+package boj;
+
 import java.util.Scanner;
 
 public class boj1003 {
@@ -34,7 +36,7 @@ public class boj1003 {
 
 //import java.util.Scanner;
 //
-//public class boj1003 {
+//public class boj.boj1003 {
 //
 //    static Integer[][] dp = new Integer[41][2];
 //
