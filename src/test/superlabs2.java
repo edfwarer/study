@@ -21,6 +21,8 @@ public class superlabs2 {
 //
 //        return answer;
 //    }
+
+    static int rec_arr[][];
     public long solution2(int[][] rectangles) {
         /**
          * (x1, y1), (x2, y2)가 주어지고, 모든 사각형의 넓이?
@@ -60,7 +62,7 @@ public class superlabs2 {
         long answer = 0;
         int x = 0;
         int y = 0;
-        int[][] sum = new int[10000][10000];
+        int[][] sum = new int[rectangles.length][10000];
 
         for (int i = 0; i < rectangles.length; i++) {
             int x1 = rectangles[i][0];
