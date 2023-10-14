@@ -16,6 +16,7 @@
 ### 3. 기술 스펙
     Java, Sysbase
     전자정부프레임워크, 넥사크로(to-be 화면개발 플랫폼), MiPlatform(as-is 화면개발 플랫폼)
+    UbireportDesigner4.0(보고서 개발용) : .jrf, .jef(eForm : 고객에게 서명과 같은 데이터를 직접 받을수있는 문서 확장자)
     SVN
 
 ### 4. 담당업무
